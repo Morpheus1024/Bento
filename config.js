@@ -23,7 +23,7 @@ const CONFIG = {
 	greetingNight: 'Go to Sleep!',
 
 	// Layout
-	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
+	bentoLayout: 'buttons', // 'bento', 'lists', 'buttons'
 
 	// Weather
 	weatherKey: 'InsertYourAPIKeyHere123456', // Write here your API Key
@@ -39,7 +39,7 @@ const CONFIG = {
 	autoChangeTheme: true,
 
 	// Autochange by OS
-	changeThemeByOS: true,
+	changeThemeByOS: false,
 
 	// Autochange by hour options (24hrs format, string must be in: hh:mm)
 	changeThemeByHour: false,
@@ -53,9 +53,9 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
+			name: 'Gmail',
+			icon: 'mail',
+			link: 'https://mail.google.com/mail/u/0/#inbox',
 		},
 		{
 			id: '2',
