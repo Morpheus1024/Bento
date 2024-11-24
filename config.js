@@ -135,7 +135,7 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'calendar',
+			icon: 'grip',
 			id: '1',
 			links: [
 				{
@@ -157,7 +157,7 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'github',
+			icon: 'binary',
 			id: '2',
 			links: [
 				{
@@ -183,20 +183,20 @@ const CONFIG = {
 	// Second Links Container
 	secondListsContainer: [
 		{
-			icon: 'binary',
+			icon: 'chart-network',
 			id: '1',
 			links: [
 				{
-					name: 'Spotify',
-					link: 'https://www.spotify.com',
+					name: 'HopHop',
+					link: 'https://hophop.pomagier.info:81/login',
 				},
 				{
-					name: 'Reddit',
-					link: 'https://www.reddit.com',
+					name: 'Confluence',
+					link: 'https://montessori.atlassian.net/wiki/home',
 				},
 				{
-					name: 'Hashnode',
-					link: 'https://www.hashnode.com',
+					name: 'OutLook',
+					link: 'https://www.https://montessori.atlassian.net/wiki/home.com',
 				},
 				{
 					name: 'Pocket',
@@ -205,24 +205,24 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'github',
+			icon: 'bot',
 			id: '2',
 			links: [
 				{
-					name: 'Front',
-					link: 'https://www.reddit.com/r/Frontend/',
+					name: 'HMI zimny',
+					link: 'http://172.20.20.198:5005/',
 				},
 				{
-					name: 'Rust',
-					link: 'https://www.reddit.com/r/rust/',
+					name: 'HMI ciepły',
+					link: 'http://172.20.20.198:5006/',
 				},
 				{
-					name: 'Go',
-					link: 'https://www.reddit.com/r/golang/',
+					name: '1',
+					link: '',
 				},
 				{
-					name: 'Repos',
-					link: 'https://github.com/migueravila',
+					name: '2',
+					link: '',
 				},
 			],
 		},
