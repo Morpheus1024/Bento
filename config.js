@@ -217,8 +217,8 @@ const CONFIG = {
 					link: 'http://172.20.20.198:5006/',
 				},
 				{
-					name: '1',
-					link: '',
+					name: 'Testy APS',
+					link: 'https://docs.google.com/spreadsheets/d/1M_7ZDyrtbacPm43fDSWfrSBFYcpC9ntMYErRkCEMHME/edit?gid=283458390#gid=283458390',
 				},
 				{
 					name: '2',
