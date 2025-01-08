@@ -221,8 +221,8 @@ const CONFIG = {
 					link: 'https://docs.google.com/spreadsheets/d/1M_7ZDyrtbacPm43fDSWfrSBFYcpC9ntMYErRkCEMHME/edit?gid=283458390#gid=283458390',
 				},
 				{
-					name: '2',
-					link: '',
+					name: 'Sharepoint pomiary',
+					link: 'https://chcemy.sharepoint.com/sites/AVENA/Robotics/Forms/AllItems.aspx?newTargetListUrl=%2Fsites%2FAVENA%2FRobotics&viewpath=%2Fsites%2FAVENA%2FRobotics%2FForms%2FAllItems%2Easpx&id=%2Fsites%2FAVENA%2FRobotics%2FAPS%2FAPS%2000%2F5%20Kontroler%20budki%2F5%2E5%20PLC%2FPomiary&viewid=a7679dad%2D5369%2D4b1c%2D8ec5%2Db3418386b433',
 				},
 			],
 		},
