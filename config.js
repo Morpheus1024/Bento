@@ -199,8 +199,8 @@ const CONFIG = {
 					link: 'https://www.https://montessori.atlassian.net/wiki/home.com',
 				},
 				{
-					name: 'Pocket',
-					link: 'https://www.pocket.com',
+					name: 'Teams',
+					link: 'https://teams.microsoft.com/v2/',
 				},
 			],
 		},
