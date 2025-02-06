@@ -151,8 +151,8 @@ const CONFIG = {
 					link: 'https://calendar.google.com',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					// name: 'Rock',
+					// link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
 				},
 			],
 		},
@@ -217,12 +217,12 @@ const CONFIG = {
 					link: 'http://172.20.20.198:5006/',
 				},
 				{
-					name: 'Testy APS',
-					link: 'https://docs.google.com/spreadsheets/d/1M_7ZDyrtbacPm43fDSWfrSBFYcpC9ntMYErRkCEMHME/edit?gid=283458390#gid=283458390',
+					name: 'Testy APS Arkusz',
+					link: 'https://chcemy.sharepoint.com/:x:/r/sites/AVENA/_layouts/15/Doc.aspx?sourcedoc=%7B0890BF9A-F04E-4974-9D63-4EEE7C562C83%7D&file=Scenariusze_testowe.xlsx&nav=MTBfe0RGNzFFNUJBLTIzODAtNDcwQi05RDgyLUUyODNFODA1ODdGQ31fezAwMDAwMDAwLTAwMDEtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMH0&action=default&mobileredirect=true&CID=b07dfbcc-720a-e924-18cc-d81413dab67d',
 				},
 				{
-					name: 'Sharepoint pomiary',
-					link: 'https://chcemy.sharepoint.com/sites/AVENA/Robotics/Forms/AllItems.aspx?newTargetListUrl=%2Fsites%2FAVENA%2FRobotics&viewpath=%2Fsites%2FAVENA%2FRobotics%2FForms%2FAllItems%2Easpx&id=%2Fsites%2FAVENA%2FRobotics%2FAPS%2FAPS%2000%2F5%20Kontroler%20budki%2F5%2E5%20PLC%2FPomiary&viewid=a7679dad%2D5369%2D4b1c%2D8ec5%2Db3418386b433',
+					name: 'Błędy testów APS arkusz',
+					link: 'https://chcemy.sharepoint.com/:x:/r/sites/AVENA/_layouts/15/Doc.aspx?sourcedoc=%7B47413952-367F-4681-A666-A091F5BFB169%7D&file=Przeprowadzone_testy.xlsx&action=default&mobileredirect=true',
 				},
 			],
 		},
