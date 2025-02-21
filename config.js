@@ -209,8 +209,8 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'HMI zimny',
-					link: 'http://172.20.20.198:5005/',
+					name: 'Supabase APS local',
+					link: 'https://172.20.20.198:8084/',
 				},
 				{
 					name: 'HMI ciepły',
