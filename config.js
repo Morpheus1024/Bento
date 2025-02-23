@@ -188,7 +188,7 @@ const CONFIG = {
 			links: [
 				{
 					name: 'HopHop',
-					link: 'https://hophop.pomagier.info:81/login',
+					link: 'https://hophop.pomagier.info/login',
 				},
 				{
 					name: 'Confluence',
