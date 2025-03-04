@@ -213,8 +213,8 @@ const CONFIG = {
 					link: 'https://192.168.20.2:8084/',
 				},
 				{
-					name: 'HMI ciepły',
-					link: 'http://172.20.20.198:5006/',
+					name: 'Supabase APS zdalnie',
+					link: 'http://172.20.20.198:8084',
 				},
 				{
 					name: 'Testy APS Arkusz',
